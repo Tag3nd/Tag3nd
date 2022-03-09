@@ -21,6 +21,7 @@ When an attacker gets a user's browser to execute his/her code, the code will ru
     Pragma: no-cache
     Cache-Control: no-cache
     Referer: http://www.testfire.net
+    Cookie: JSESSIONID=37D14CE586B16CD18355781D3228DF6D
 
 As this injection happens in a GET parameter, the attacker simply needs to send the crafted Link that produces this GET request to the victim and have the victim click it.
 
@@ -65,3 +66,8 @@ Ensure that you perform input validation at well-defined interfaces within the a
 
     http://projects.webappsec.org/Cross-Site-Scripting
     http://cwe.mitre.org/data/definitions/79.html
+
+# Alert Tags:
+
+    OWASP_2021_A03	https://owasp.org/Top10/A03_2021-Injection/
+    OWASP_2017_A07	https://owasp.org/www-project-top-ten/2017/A7_2017-Cross-Site_Scripting_(XSS).html

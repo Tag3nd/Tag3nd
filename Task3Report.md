@@ -216,3 +216,10 @@ This may not be a feasible solution, and it only limits the impact to the operat
 	OWASP_2021_A01	https://owasp.org/Top10/A01_2021-Broken_Access_Control/
 	WSTG-v42-ATHZ-01	https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/05-Authorization_Testing/01-	Testing_Directory_Traversal_File_Include
 	OWASP_2017_A05	https://owasp.org/www-project-top-ten/2017/A5_2017-Broken_Access_Control.html
+
+
+
+
+https://user-images.githubusercontent.com/101261654/157547135-58ad98a2-2301-44df-ba75-72120fa132f7.mp4
+
+

@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 
 <!---
-Tag3nd/Tag3nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hello InternshipStudio,
+                        This is my first time using github and doing this fun project i get to learn so many things.
+
+Im not sure how this works but, Task2Report.md is my report of second task and Task3Report and Task3Rec are report of third taask and recording of it.
 --->

@@ -6,9 +6,9 @@ About section of vulnweb website http://testasp.vulnweb.com/ has a critical vuln
 
    A path traversal attack (also known as directory traversal) aims to access files and directories that are stored outside the web root folder. By manipulating variables that reference files with “dot-dot-slash (../)” sequences and its variations or by using absolute file paths, it may be possible to access arbitrary files and directories stored on file system including application source code or configuration and critical system files. It should be noted that access to files is limited by system operational access control.
    
-# Attack: ../../../../../../../../../../../../../../../../Windows/system.ini
+ Attack: ../../../../../../../../../../../../../../../../Windows/system.ini
 
-# Evidence: [drivers]
+ Evidence: [drivers]
    
    
 # Steps To Reproduce:

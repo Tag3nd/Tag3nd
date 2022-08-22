@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tag3nd
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Cyber Security, Some coding languages.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python, Web Developing, Software Developing
+- 🌱 I’m currently learning Data Science, Some coding languages.
+- 💞️ I’m looking for internship to grew my knowledge and have some real world expierence
 
 <!---
 Tag3nd/Tag3nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
